@@ -1,0 +1,44 @@
+<%- include("./header.ejs") -%>
+
+    <div class="container pt-5 pb-5">
+        <h3>
+            Write New Article
+        </h3>
+        <hr>
+        <form action="/new" method="post">
+            <div class="mb-3">
+                <input type="text" placeholder="Article Title" class="form-control" name='title'>
+            </div>
+            <div class="mb-3">
+                <input type="ur" placeholder="Paste Image url" class="form-control" name='image'></textarea>
+            </div>
+            <div class="mb-3">
+                <textarea placeholder="Type Your Article Title" class="form-control" name='content' rows="7"></textarea>
+            </div>
+            <div class="row">
+                <div class="col-md-3 ">
+                    <button class="btn btn-success" type="submit">
+                        Save Post
+                    </button>
+                </div>
+                <div class="col-md-3">
+                    <button class="btn btn-secondary" type="reset">
+                        Reset Form
+                    </button>
+                </div>
+            </div>
+        </form>
+        <hr>
+        <% if (result!='') { %>
+            <div class="alert alert-success">
+                <h2>✅
+                    <%= result %>
+                </h2>
+                <% } %>
+            </div>
+    </div>
+
+    <%-include("./footer.ejs") -%>
+
+
+        <!-- https://picsum.photos/id/1006/200/300 -->
