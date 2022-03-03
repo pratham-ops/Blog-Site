@@ -1,7 +1,7 @@
 # BLOG SITE
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Checkout+This+Amazing+WebApp;It+is+made+using+Javascript+Bootstrap;And+Express+at+server+side; )](https://git.io/typing-svg)
-###  [BLOG SITE](https://basic-dbms-app.herokuapp.com/) :octocat:
+###  [BLOG SITE](https://basic-blog-site.herokuapp.com/) :octocat:
 
 ###  :octocat:
 
