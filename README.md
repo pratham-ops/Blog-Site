@@ -1,7 +1,7 @@
-# BASIC CRUD WEB-APP
+# BLOG SITE
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Checkout+This+Amazing+WebApp;It+is+made+using+Javascript+Bootstrap;And+Express+at+server+side; )](https://git.io/typing-svg)
-###  [Basic-DBMS-APP](https://basic-dbms-app.herokuapp.com/) :octocat:
+###  [BLOG SITE](https://basic-dbms-app.herokuapp.com/) :octocat:
 
 ###  :octocat:
 
